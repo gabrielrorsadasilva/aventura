@@ -1,0 +1,34 @@
+body{
+backgraund-color: #2acb3a;
+color: white;
+font-family:"Bai Janjure", sans-serif;
+display:flax;
+justify-self: center;
+align-items:center;
+height:700px;
+margin:0;
+
+}
+
+button{
+background: color#87d413;
+color:#1a3573;
+font-family:"Bai Janjure", sans-serif;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 90%;
+}
